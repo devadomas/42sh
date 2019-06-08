@@ -6,6 +6,7 @@ This project consists in creating a zsh-like in C language considered UNIX (and 
 
 #### Score
 **Mendatory part**: 100/100
+
 **Bonus**: 17/25
 
 #### Team
