@@ -4,6 +4,14 @@
 #### Description
 This project consists in creating a zsh-like in C language considered UNIX (and POSIX) standard.
 
+#### Score
+**Mendatory part**: 100/100
+**Bonus**: 17/25
+
+#### Team
+Project was made in coloboration with [dlaurent](https://github.com/dlaurent42) and [davhojt](https://github.com/davhojt).
+This project was on of the **best** things I did during my studies at Ecole 42.
+
 #### Objectives
 - Processes and signals handling
 - Line edition
